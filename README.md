@@ -21,3 +21,4 @@ Its a Movie App where you can search for a specific film or by genre, edit infor
 
 ## Authors
 * [Yahor Akushevich](https://www.linkedin.com/in/yahor-akushevich-4101ba110/)
+* Microsoft
